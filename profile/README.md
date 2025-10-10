@@ -1,9 +1,3 @@
-<p align="left">
-  <img width="200" height="200" alt="228882340" src="https://github.com/user-attachments/assets/270f5f42-7dcd-48d2-a771-9f5f5a48dc49" />
-</p>
-
-# TEDI Design System
-
 The unified design system for Estonia’s public digital services.  
 TEDI ensures accessibility, consistency, and quality across all government user interfaces.
 
