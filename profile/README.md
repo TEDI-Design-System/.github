@@ -7,6 +7,7 @@ TEDI ensures accessibility, consistency, and quality across all government user 
 
 | Area | Repository | Description |
 |------|-------------|-------------|
+| Design | [tedi-design-system/design](https://github.com/TEDI-Design-System/design) | Design issues and planning |
 | React | [tedi-design-system/react](https://github.com/TEDI-Design-System/react) | Active React component library and Storybook |
 | Angular | [tedi-design-system/angular](https://github.com/TEDI-Design-System/angular) | Active Angular component library and Storybook |
 | Core | [tedi-design-system/core](https://github.com/TEDI-Design-System/core) | Shared SCSS tokens, variables, and design foundations |
