@@ -3,7 +3,7 @@ TEDI ensures accessibility, consistency, and quality across all government user 
 
 ---
 
-## Migration guidlines
+## Migration guidelines
 https://github.com/TEDI-Design-System/general/wiki/TEDI-Design-System-Migration-Guide
 
 ## Repositories
