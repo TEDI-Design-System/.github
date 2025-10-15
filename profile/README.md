@@ -11,7 +11,7 @@ TEDI ensures accessibility, consistency, and quality across all government user 
 | React | [tedi-design-system/react](https://github.com/TEDI-Design-System/react) | - Active React component library development <br> - React specific issue reporting |
 | Angular | [tedi-design-system/angular](https://github.com/TEDI-Design-System/angular) | - Active Angular component library development <br> - Angular specific issue reporting |
 | Core | [tedi-design-system/core](https://github.com/TEDI-Design-System/core) | - Shared SCSS tokens, variables <br> - Angular specific issue reporting |
-| General | [tedi-design-system/general](https://github.com/TEDI-Design-System/general) | - Internal project management issues |
+| General | [tedi-design-system/general](https://github.com/TEDI-Design-System/general) | - Internal project management issues <br> - Meeting notes <br> - Wiki |
 
 ---
 
