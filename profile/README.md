@@ -6,6 +6,9 @@ TEDI ensures accessibility, consistency, and quality across all government user 
 ## Migration guidelines
 https://github.com/TEDI-Design-System/general/wiki/TEDI-Design-System-Migration-Guide
 
+## Developer's WIKI
+https://github.com/TEDI-Design-System/general/wiki
+
 ## Repositories
 
 | Area | Repository | Description |
@@ -25,5 +28,5 @@ https://github.com/TEDI-Design-System/general/wiki/TEDI-Design-System-Migration-
 | Zeroheight | [TEDI Documentation](https://tedi.tehik.ee/) | Component guidelines, accessibility, and UX principles |
 | WIKI | [Github wiki](https://github.com/TEDI-Design-System/general/wiki) | Developer documentation |
 | Figma | [TEDI Figma Files](https://www.figma.com/design/jWiRIXhHRxwVdMSimKX2FF/TEDI-READY-2.18.27?m=auto&node-id=1-1578&t=ZT0piPWCPNpy3S30-1) | Design assets, components, and prototypes |
-| Storybook | [React Storybook](https://tedi-design-system.github.io/react/) • [Angular Storybook](https://tedi-design-system.github.io/angular/) | Component documentation and live examples |
+| Storybook | [Storybook landing page](https://storybook.tedi.ee/) | Component documentation and live examples |
 | Slack | [Slack workspace](https://tedisystem.slack.com) | Design system related discussions |
