@@ -32,3 +32,4 @@ https://github.com/TEDI-Design-System/general/wiki
 | Slack | [Slack workspace](https://tedisystem.slack.com) | Design system related discussions |
 | Meeting notes | [Meeting notes](https://github.com/TEDI-Design-System/general/tree/main/Meeting%20notes) | Different meeting notes |
 
+![Kaasrahastanud_EL_kaksiklogod_ENG_hor_color_RGB](https://github.com/user-attachments/assets/0ea3d768-a8c1-4aca-9d49-b4892cb61f2a)
