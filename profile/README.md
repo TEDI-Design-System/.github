@@ -16,7 +16,7 @@ https://github.com/TEDI-Design-System/general/wiki
 | Design | [tedi-design-system/design](https://github.com/TEDI-Design-System/design) | - New component requests <br> - Existing component improvement requests <br> - Existing component design or user experience bugs |
 | React | [tedi-design-system/react](https://github.com/TEDI-Design-System/react) | - Active React component library development <br> - React specific issue reporting |
 | Angular | [tedi-design-system/angular](https://github.com/TEDI-Design-System/angular) | - Active Angular component library development <br> - Angular specific issue reporting |
-| Core | [tedi-design-system/core](https://github.com/TEDI-Design-System/core) | - Shared SCSS tokens, variables <br> - Angular specific issue reporting |
+| Core | [tedi-design-system/core](https://github.com/TEDI-Design-System/core) | - Shared SCSS tokens, variables |
 | General | [tedi-design-system/general](https://github.com/TEDI-Design-System/general) | - Internal project management issues <br> - Meeting notes <br> - Wiki |
 
 ---
