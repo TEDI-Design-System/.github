@@ -25,7 +25,7 @@ https://github.com/TEDI-Design-System/general/wiki
 
 | Resource | Link | Description |
 |-----------|------|-------------|
-| Zeroheight | [TEDI Documentation](https://tedi.tehik.ee/) | Component guidelines, accessibility, and UX principles |
+| Zeroheight | [TEDI Documentation](https://www.tedi.ee/) | Component guidelines, accessibility, and UX principles |
 | WIKI | [Github wiki](https://github.com/TEDI-Design-System/general/wiki) | Developer documentation |
 | Figma | [TEDI Figma Files](https://www.figma.com/design/jWiRIXhHRxwVdMSimKX2FF/TEDI-READY-2.18.27?m=auto&node-id=1-1578&t=ZT0piPWCPNpy3S30-1) | Design assets, components, and prototypes |
 | Storybook | [Storybook landing page](https://storybook.tedi.ee/) | Component documentation and live examples |
