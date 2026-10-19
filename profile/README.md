@@ -10,11 +10,22 @@ https://github.com/TEDI-Design-System/general/wiki
 
 | Area | Repository | Description |
 |------|-------------|-------------|
-| Design | [tedi-design-system/design](https://github.com/TEDI-Design-System/design) | - New component requests <br> - Existing component improvement requests <br> - Existing component design or user experience bugs |
+| Design | [tedi-design-system/design](https://github.com/TEDI-Design-System/design) | - Existing component design or user experience bugs <br> - Approved new components and improvements |
 | React | [tedi-design-system/react](https://github.com/TEDI-Design-System/react) | - Active React component library development <br> - React specific issue reporting |
 | Angular | [tedi-design-system/angular](https://github.com/TEDI-Design-System/angular) | - Active Angular component library development <br> - Angular specific issue reporting |
 | Core | [tedi-design-system/core](https://github.com/TEDI-Design-System/core) | - Shared SCSS tokens, variables |
-| General | [tedi-design-system/general](https://github.com/TEDI-Design-System/general) | - Internal project management issues <br> - Meeting notes <br> - Wiki |
+| General | [tedi-design-system/general](https://github.com/TEDI-Design-System/general) | - Internal project management issues <br> - [Discussions](https://github.com/TEDI-Design-System/general/discussions): new component and improvement ideas <br> - Meeting notes <br> - Wiki |
+
+---
+
+## Contributing
+
+| Document | Description |
+|----------|-------------|
+| [Contributing](https://github.com/TEDI-Design-System/.github/blob/main/CONTRIBUTING.md) | Where and how to contribute |
+| [Code of Conduct](https://github.com/TEDI-Design-System/.github/blob/main/CODE_OF_CONDUCT.md) ([eesti keeles](https://github.com/TEDI-Design-System/.github/blob/main/CODE_OF_CONDUCT.et.md)) | Expected behaviour in all TEDI spaces |
+| [Security policy](https://github.com/TEDI-Design-System/.github/blob/main/SECURITY.md) | How to report a vulnerability privately |
+| [Getting help](https://github.com/TEDI-Design-System/.github/blob/main/SUPPORT.md) | Where to ask questions and report issues |
 
 ---
 
