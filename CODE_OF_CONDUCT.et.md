@@ -1,6 +1,6 @@
 # Käitumisjuhend
 
-[In English](CODE_OF_CONDUCT.md)
+[In English](https://github.com/TEDI-Design-System/.github/blob/main/CODE_OF_CONDUCT.md)
 
 ## Meie lubadus
 
@@ -82,7 +82,7 @@ Käitumisjuhend kehtib kõigis kogukonna ruumides ja ka siis, kui inimene esinda
 
 ## Päritolu
 
-See käitumisjuhend on kohandatud Contributor Covenanti versioonist 3.0, mis on püsivalt kättesaadav aadressil [contributor-covenant.org/version/3/0](https://www.contributor-covenant.org/version/3/0/). Eestikeelne tekst on TEDI tiimi tõlge ingliskeelsest [käitumisjuhendist](CODE_OF_CONDUCT.md). Lahknevuse korral lähtutakse ingliskeelsest tekstist.
+See käitumisjuhend on kohandatud Contributor Covenanti versioonist 3.0, mis on püsivalt kättesaadav aadressil [contributor-covenant.org/version/3/0](https://www.contributor-covenant.org/version/3/0/). Eestikeelne tekst on TEDI tiimi tõlge ingliskeelsest [käitumisjuhendist](https://github.com/TEDI-Design-System/.github/blob/main/CODE_OF_CONDUCT.md). Lahknevuse korral lähtutakse ingliskeelsest tekstist.
 
 Contributor Covenanti haldab Organization for Ethical Source ning see on litsentsitud CC BY-SA 4.0 alusel. Litsentsiga saab tutvuda aadressil [creativecommons.org/licenses/by-sa/4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 

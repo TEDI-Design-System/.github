@@ -1,6 +1,6 @@
 # Code of Conduct
 
-[Eesti keeles](CODE_OF_CONDUCT.et.md)
+[Eesti keeles](https://github.com/TEDI-Design-System/.github/blob/main/CODE_OF_CONDUCT.et.md)
 
 ## Our Pledge
 

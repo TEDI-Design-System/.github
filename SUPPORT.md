@@ -23,7 +23,7 @@ Open an issue in the repository it concerns:
 
 ## Security
 
-See the [security policy](SECURITY.md). Do not report vulnerabilities in public issues.
+See the [security policy](https://github.com/TEDI-Design-System/.github/blob/main/SECURITY.md). Do not report vulnerabilities in public issues.
 
 ## Other
 
