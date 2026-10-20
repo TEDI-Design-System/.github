@@ -1,6 +1,8 @@
 The unified design system for Estonia’s public digital services.  
 TEDI ensures accessibility, consistency, and quality across all government user interfaces.
 
+TEDI follows EN 301 549 (WCAG 2.2 level AA). See [Accessibility](https://www.tedi.ee/1ee8444b7/p/33df89-sissejuhatus/b/05a2e8) on tedi.ee for what TEDI covers, what stays with your project, and how to report an issue.
+
 ---
 
 ## Developer's WIKI
