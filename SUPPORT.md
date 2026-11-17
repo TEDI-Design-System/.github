@@ -2,7 +2,7 @@
 
 ## Questions
 
-Ask in the [TEDI Slack](https://join.slack.com/t/tedisystem/shared_invite/zt-3hd8tnjf7-Z1smXI~ns0p8E2cxoFUKbQ). There are channels for React, Angular and design.
+Ask in the [TEDI Slack](https://join.slack.com/t/tedisystem/shared_invite/zt-3hd8tnjf7-Z1smXI~ns0p8E2cxoFUKbQ). There are channels for React, Angular, Vue and design.
 
 For documentation, see [tedi.ee](https://www.tedi.ee/) (design guidelines and component documentation), [Storybook](https://storybook.tedi.ee/) (component usage and API) and the [developer wiki](https://github.com/TEDI-Design-System/general/wiki).
 
@@ -18,6 +18,7 @@ Open an issue in the repository it concerns:
 | -------------------------------------------- | --------------------------------------------------------------- |
 | React components                             | [react](https://github.com/TEDI-Design-System/react/issues)     |
 | Angular components                           | [angular](https://github.com/TEDI-Design-System/angular/issues) |
+| Vue components                               | [vue](https://github.com/TEDI-Design-System/vue/issues)         |
 | Design tokens and shared styles              | [core](https://github.com/TEDI-Design-System/core/issues)       |
 | Design or UX problems in existing components | [design](https://github.com/TEDI-Design-System/design/issues)   |
 
