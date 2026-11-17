@@ -8,6 +8,7 @@ Report them privately through the **Security** tab of the affected repository, u
 
 - [react](https://github.com/TEDI-Design-System/react/security/advisories/new)
 - [angular](https://github.com/TEDI-Design-System/angular/security/advisories/new)
+- [vue](https://github.com/TEDI-Design-System/vue/security/advisories/new)
 - [core](https://github.com/TEDI-Design-System/core/security/advisories/new)
 
 If you can't use GitHub, email [info@tedi.ee](mailto:info@tedi.ee).
